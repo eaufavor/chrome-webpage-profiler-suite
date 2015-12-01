@@ -1,0 +1,18 @@
+[submodule "chrome-webpage-profiler"]
+	path = chrome-webpage-profiler
+	url = https://github.com/eaufavor/chrome-webpage-profiler.git
+[submodule "http2-dump-anatomy"]
+	path = http2-dump-anatomy
+	url = https://github.com/eaufavor/http2-dump-anatomy.git
+[submodule "pyshark-ssl"]
+	path = pyshark-ssl
+	url = https://github.com/eaufavor/pyshark-ssl.git
+[submodule "chrome-webpage-profiler-webui"]
+	path = chrome-webpage-profiler-webui
+	url = https://github.com/eaufavor/chrome-webpage-profiler-webui.git
+[submodule "CWP-suite-setup"]
+	path = CWP-suite-setup
+	url = https://github.com/eaufavor/CWP-suite-setup.git
+[submodule "chrome-har-capturer-cache"]
+	path = chrome-har-capturer-cache
+	url = https://github.com/eaufavor/chrome-har-capturer-cache.git
